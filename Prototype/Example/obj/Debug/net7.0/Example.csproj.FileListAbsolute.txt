@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\bin\Debug\net7.0\Example.exe
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\bin\Debug\net7.0\Example.deps.json
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\bin\Debug\net7.0\Example.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\bin\Debug\net7.0\Example.pdb
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\refint\Example.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.pdb
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\Prototype\Example\obj\Debug\net7.0\ref\Example.dll

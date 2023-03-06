@@ -1,0 +1,15 @@
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\bin\Debug\net7.0\FunctionalBuilder.exe
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\bin\Debug\net7.0\FunctionalBuilder.deps.json
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\bin\Debug\net7.0\FunctionalBuilder.runtimeconfig.json
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\bin\Debug\net7.0\FunctionalBuilder.dll
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\bin\Debug\net7.0\FunctionalBuilder.pdb
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.csproj.AssemblyReference.cache
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.AssemblyInfo.cs
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.dll
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\refint\FunctionalBuilder.dll
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.pdb
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\FunctionalBuilder.genruntimeconfig.cache
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\FunctionalBuilder\obj\Debug\net7.0\ref\FunctionalBuilder.dll

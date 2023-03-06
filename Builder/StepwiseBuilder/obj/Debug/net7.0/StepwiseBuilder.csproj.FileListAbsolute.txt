@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\bin\Debug\net7.0\StepwiseBuilder.exe
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\bin\Debug\net7.0\StepwiseBuilder.deps.json
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\bin\Debug\net7.0\StepwiseBuilder.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\bin\Debug\net7.0\StepwiseBuilder.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\bin\Debug\net7.0\StepwiseBuilder.pdb
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\refint\StepwiseBuilder.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.pdb
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\StepwiseBuilder.genruntimeconfig.cache
+c:\Users\Usuario\Desktop\Estudos\DesignPatterns\StepwiseBuilder\obj\Debug\net7.0\ref\StepwiseBuilder.dll
