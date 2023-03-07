@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\bin\Debug\net7.0\MonostateSingleton.exe
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\bin\Debug\net7.0\MonostateSingleton.deps.json
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\bin\Debug\net7.0\MonostateSingleton.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\bin\Debug\net7.0\MonostateSingleton.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\bin\Debug\net7.0\MonostateSingleton.pdb
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\refint\MonostateSingleton.dll
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.pdb
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\MonostateSingleton.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estudos\DesignPatterns\Singleton\MonostateSingleton\obj\Debug\net7.0\ref\MonostateSingleton.dll
