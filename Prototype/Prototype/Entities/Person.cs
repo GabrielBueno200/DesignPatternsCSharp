@@ -21,7 +21,6 @@ public class Person : IDeepCopyable<Person>
     {
         target.Names = (string[])Names.Clone();
         target.Address = Address.DeepCopy();
-
     }
 
     public override string ToString()
