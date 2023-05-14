@@ -1,3 +1,3 @@
 # DesignPatternsCSharp
 
-Simple mplementations of GoF Design Patterns using C#
+Simple implementations of GoF Design Patterns using C#
